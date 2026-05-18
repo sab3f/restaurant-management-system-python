@@ -20,7 +20,5 @@ This project simulates real-world restaurant operations including customer order
 - View employee list
 - Manage restaurant data
 
----
-
-##Author
+## Author
 Muhammad Sabbir
